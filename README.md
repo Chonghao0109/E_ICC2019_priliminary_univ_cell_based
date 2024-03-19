@@ -7,6 +7,7 @@ Project Name:
 	2019 IC Design Contest Preliminary
 	Image Convolutional Circuit Design
 
+![Cow1]([https://raw.githubusercontent.com/jmszwzr/test/master/images/sex-cow.png](https://github.com/Chonghao0109/E_ICC2019_priliminary_univ_cell_based/blob/main/img/CONV.png) "Cow1") 
 
 Class:
 	S	
@@ -19,7 +20,7 @@ Description:
 	Cycle: 10
 
 	Target Area	: 270,000
-	Your Area		:  18,912
+	Your Area	:  18,912
 	
 	
 	****************************************
