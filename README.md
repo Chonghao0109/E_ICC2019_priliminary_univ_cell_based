@@ -7,7 +7,7 @@ Project Name:
 	2019 IC Design Contest Preliminary
 	Image Convolutional Circuit Design
 
-![Cow1]([https://raw.githubusercontent.com/jmszwzr/test/master/images/sex-cow.png](https://github.com/Chonghao0109/E_ICC2019_priliminary_univ_cell_based/blob/main/img/CONV.png) "Cow1") 
+![image](https://raw.githubusercontent.com/jmszwzr/test/master/images/sex-cow.png](https://github.com/Chonghao0109/E_ICC2019_priliminary_univ_cell_based/blob/main/img/CONV.png) 
 
 Class:
 	S	
